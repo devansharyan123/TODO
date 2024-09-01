@@ -1,2 +1,2 @@
 # TODO
-TODO - LIST using redux 
+TODO - LIST where i have used state management as Redux
